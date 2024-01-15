@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElaineRiceFCCA
-- 🌱 I’m currently doing a HDip in Computer Science
+- 🌱 I’m currently doing a HDip in Computer Science with SETU
 - 🤣 Everything is new and complicated to me right now
 
 <!---
